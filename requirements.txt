@@ -1,0 +1,8 @@
+pandas
+sentence_transformers
+scikit-learn
+tqdm
+pandas
+numpy
+chromadb
+streamlit
